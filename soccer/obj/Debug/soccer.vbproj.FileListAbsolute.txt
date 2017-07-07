@@ -1,0 +1,8 @@
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\bin\soccer.dll
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\bin\soccer.pdb
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\bin\soccer.xml
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\obj\Debug\soccer.Resources.resources
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\obj\Debug\soccer.vbproj.GenerateResource.Cache
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\obj\Debug\soccer.dll
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\obj\Debug\soccer.xml
+C:\Users\Omar_Gapi\Documents\Visual Studio 2012\Projects\soccer\soccer\obj\Debug\soccer.pdb

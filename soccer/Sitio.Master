@@ -1,0 +1,37 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Sitio.master.vb" Inherits="soccer.Sitio" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0" />
+    <title>Ejercicios</title>
+    <link href="Content/normalize.css" rel="stylesheet" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h2>Soccer</h2>
+    </header>
+
+    <section id="links">
+        <a href="ejercicio1.aspx" target="_self">
+            <p>Ejercicio 1</p>
+        </a>
+        <a href="ejercicio2.aspx" target="_self">
+            <p>Ejercicio 2</p>
+        </a>
+    </section>
+
+    <section id="contenido">
+        <form id="form1" runat="server">
+            <asp:ContentPlaceHolder ID="PlaceHolder_Contenido" runat="server">
+            </asp:ContentPlaceHolder>
+        </form>
+    </section>
+
+</body>
+</html>

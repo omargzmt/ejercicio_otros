@@ -1,0 +1,40 @@
+﻿body{    
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    margin: 0px;
+    text-align: center;    
+}
+
+#links {
+    text-align: center;    
+}
+
+    #links a {
+        display: inline-block;        
+    }
+
+    #links p {
+        margin: 0px 40px;        
+    }
+
+#contenido {
+    max-width: 900px;
+    width: 98%;
+    margin: 20px auto;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.grid {
+    margin: 10px auto;
+    height: 500px;    
+}
